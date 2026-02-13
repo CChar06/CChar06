@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CChar06
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning html, CSS, Unity, Godot, and C#.
+- 👋 Hi, I’m @Silver111
+- 👀 I’m interested in coding and game development.
+- 🌱 I’m currently learning Unity, Godot, and C#.
 - ⚡ Fun fact: I like to create games in my free time.
 
 <!---
